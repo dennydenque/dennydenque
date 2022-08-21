@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dennydenque
-- 👀 I’m interested in 
 - 🌱 I’m currently learning python, testing
 - 💞️ I’m looking to collaborate on projects for education
 - 📫 Write me to dennydenque@gmail.com
